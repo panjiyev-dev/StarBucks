@@ -1,14 +1,8 @@
 # StarBucks Modern Cafe ☕
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-site-id/deploy-status)](https://app.netlify.com/sites/star-bucks-panjiyevdev/overview)
-![GitHub last commit](https://img.shields.io/github/last-commit/panjiyev-dev/StarBucks)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fstar-bucks-panjiyevdev.netlify.app%2F)
-
 Modern coffee shop website with dynamic animations and premium UI design.
 
 **Live Demo:** [star-bucks-panjiyevdev.netlify.app](https://star-bucks-panjiyevdev.netlify.app/)
-
-![Website Preview](https://via.placeholder.com/1920x1080.png?text=StarBucks+Showcase)
 
 ## 🌟 Features
 
