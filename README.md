@@ -2,7 +2,7 @@
 
 Modern coffee shop website with dynamic animations and premium UI design.
 
-**Live Demo:** <a target="_blanck" href="https://star-bucks-panjiyevdev.netlify.app/">
+**Live Demo:** [star-bucks-panjiyevdev.netlify.app](https://star-bucks-panjiyevdev.netlify.app/)
 
 ## 🌟 Features
 
